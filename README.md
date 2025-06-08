@@ -1,4 +1,4 @@
-# 🧠 Sudoku Multi-Tape Turing Machine Simulator
+# 🧠 Sudoku Solver 
 
 Author: Sidhart Sami (https://www.linkedin.com/in/sidhart-sami/)<br> 
 Project Title: Sudoku Solver - Theory Of Computing <br>
