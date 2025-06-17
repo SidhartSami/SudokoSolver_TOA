@@ -6,7 +6,8 @@ Term: Spring 2025<br>
 Institution: FAST National University of Computer and Emerging Sciences (FAST-NUCES), Karachi Campus<br>
 Technologies: HTML/CSS <br>
 Concept Used: Multi-Tape Turing Machine
-Live Demo: sidhartsami.github.io/SudokoSolver_TOA
+Live Demo: sidhartsami.github.io/SudokoSolver_TOA]
+
 ---
 
 ## 📌 Overview
